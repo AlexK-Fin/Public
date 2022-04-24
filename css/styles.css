@@ -1,0 +1,31 @@
+footer {
+        background-color: #f2f2f2;
+        padding: 25px;
+      }
+
+hr {
+        display: block;
+        position: relative;
+        padding: 0;
+        margin: 8px auto;
+        height: 0;
+        width: 100%;
+        max-height: 0;
+        font-size: 1px;
+        line-height: 0;
+        clear: both;
+        border: none;
+     }
+
+.profile {
+        border-radius: 50%;
+}
+
+a:hover, a:focus {
+        color: #ffae00 !important;
+        transition: all 0.6s linear !important;
+        } 
+.footer {
+       opacity: 50%; 
+       font-style: italic;
+}
